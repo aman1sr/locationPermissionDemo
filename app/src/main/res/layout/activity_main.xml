@@ -12,7 +12,7 @@
         android:id="@+id/txtShowStatus"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Location Permission Status"
+        android:text="Location Permission Status..."
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

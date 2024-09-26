@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LocationPermissionDemo</string>
+    <string name="location_permission_granted">Location Permission Granted</string>
+    <string name="shared_pref_location_status">SHARED_PREF_LOCATION_STATUS</string>
 </resources>
