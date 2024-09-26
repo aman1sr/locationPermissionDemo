@@ -2,12 +2,14 @@
 Basic Demo project cover scenarios  when your app requests the ACCESS_FINE_LOCATION runtime permission in Android
 
 <p align="center">
-<img alt="location-permission"  src="https://github.com/aman1sr/Simple-FileDownloader-Library/blob/master/app/screenshot/fileDownloader.png?raw=true">
-<img alt="location-permission2"  src="https://github.com/aman1sr/Simple-FileDownloader-Library/blob/master/app/screenshot/fileDownloader.png?raw=true">
+<img alt="location-permission"  src="https://github.com/aman1sr/locationPermissionDemo/blob/master/screenshot/api30_home.png?raw=true" width="360" height="640"> 
+<img alt="location-permission2"  src="https://github.com/aman1sr/locationPermissionDemo/blob/master/screenshot/api31_home.png?raw=true" width="360" height="640"> 
 </p>
 
 ### Major Highlights:
-- Covered API >=31 for  Fine and Corse permission
+- Covered API >=31 Android gives an option to select following levels of location accuracy:
+  - Approximate : estimated accuracy is within about 3 square kilometers
+  - precise: estimated accuaracy is usually within about 50 meters - 10meters
 - Covered scenarios of deny and don't ask again wrt old API and new API >=31
 - ....
 
@@ -23,9 +25,9 @@ Basic Demo project cover scenarios  when your app requests the ACCESS_FINE_LOCAT
 - [Article Link: Handling Location permission in Android | Kotlin](https://medium.com/@aman1024/handling-location-permission-in-android-kotlin-a1bc4c1cd9da)
 
 <p align="center">
-  <img alt="location-permission-screenshot1" src="https://github.com/aman1sr/Simple-FileDownloader-Library/blob/master/app/screenshot/1.jpeg?raw=true" width="360" height="640"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="location-permission-screenshot2" src="https://github.com/aman1sr/Simple-FileDownloader-Library/blob/master/app/screenshot/2.jpeg?raw=true" width="360" height="640"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="location-permission-screenshot3" src="https://github.com/aman1sr/Simple-FileDownloader-Library/blob/master/app/screenshot/3.jpeg?raw=true" width="360" height="640">
+  <img alt="location-permission-screenshot1" src="https://github.com/aman1sr/locationPermissionDemo/blob/master/screenshot/home.png?raw=true" width="360" height="640"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="location-permission-screenshot2" src="https://github.com/aman1sr/locationPermissionDemo/blob/master/screenshot/Screenshot%202024-09-27%20at%2002.02.02.png?raw=true" width="360" height="640"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="location-permission-screenshot3" src="https://github.com/aman1sr/locationPermissionDemo/blob/master/screenshot/Screenshot%202024-09-27%20at%2001.57.49.png?raw=true" width="360" height="640">
 </p>
 
 
